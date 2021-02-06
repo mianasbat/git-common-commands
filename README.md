@@ -123,14 +123,14 @@ This repo contain all common git commands.
    ```  
 
 
-# How to create an issue
+## How to create an issue    
 1. First go to the github project. 
 1. Click the issue tab
 1. Click new issue
 1. Give an issue heading small e.g. 'Add intoduction section'
 1. Save the issue.
 
-# How to work an issue
+## How to work an issue    
 1. First go to github project
 1. Fork the project to your github account
 1. Click the issues tab again
